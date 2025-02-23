@@ -47,9 +47,6 @@ DATABASE_URL=your_postgresql_connection_string
 NEXT_PUBLIC_CLERK_PUBLISHABLE_KEY=your_clerk_publishable_key
 CLERK_SECRET_KEY=your_clerk_secret_key
 ```
-````
-
-```
 
 ## Getting Started
 1. Clone the repository:
